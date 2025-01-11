@@ -36,4 +36,5 @@ The project serves as a stepping stone toward enhancing the understanding of men
 
 ## Technologies Used
    - Programming Language: Python
-   - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+   - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK, langid
+   
