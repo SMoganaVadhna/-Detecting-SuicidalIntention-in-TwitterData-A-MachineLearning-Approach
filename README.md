@@ -24,7 +24,7 @@ The project serves as a stepping stone toward enhancing the understanding of men
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git
+   git clone https://github.com/SMoganaVadhna/-Detecting-SuicidalIntention-in-TwitterData-A-MachineLearning-Approach.git
 
 2. **Open the Jupyter Notebook:**
    ```bash
