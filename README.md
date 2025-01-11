@@ -11,3 +11,29 @@ Social media platforms often reveal expressions of emotional distress that can s
 - Leverage Machine Learning: Utilize advanced algorithms to classify text data accurately and efficiently.
 
 The project serves as a stepping stone toward enhancing the understanding of mental health issues in the digital era.
+
+## Files in the Repository
+
+- **`Suicide_Intent_Prediction.ipynb`:**
+  - A Jupyter Notebook containing data preprocessing, exploratory analysis, feature selection, and model development.
+
+- **`twitter-suicidal_data.xlsx`:**
+  - A dataset containing tweets labeled with their corresponding intentions.
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git
+
+2. **Open the Jupyter Notebook:**
+   ```bash
+   jupyter notebook Suicide_Intent_Prediction.ipynb
+
+3. **Run the Notebook:**
+
+   - Execute cells step-by-step to reproduce the analysis and results.
+
+## Technologies Used
+   - Programming Language: Python
+   - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
