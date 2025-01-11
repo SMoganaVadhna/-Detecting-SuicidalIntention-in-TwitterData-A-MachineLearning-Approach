@@ -37,4 +37,19 @@ The project serves as a stepping stone toward enhancing the understanding of men
 ## Technologies Used
    - Programming Language: Python
    - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK, langid
+
+## Result
+
+- Accurate Identification of Suicidal Intent: The model is expected to differentiate between tweets with suicidal intent and other tweets with reasonable accuracy, precision, recall, and F1-score.
+
+- Improved Mental Health Intervention: The results of this project can aid in timely identification of individuals expressing suicidal thoughts, enabling better mental health interventions and support systems.
+
+- Key Insights into Text Patterns: The project may reveal patterns or keywords commonly associated with suicidal intent, offering valuable insights into linguistic markers of distress.
+
+- Performance Benchmarks: The trained model will establish benchmarks such as overall accuracy, confusion matrix analysis, and classification metrics (precision, recall, and accuracy) to assess its effectiveness.
    
+## Contact
+   For questions or collaborations, feel free to reach out:
+
+  - Email: moganavadhna98@outlook.com
+  - LinkedIn: linkedin.com/in/mogana-vadhna-suntrakumar-5793b2224
