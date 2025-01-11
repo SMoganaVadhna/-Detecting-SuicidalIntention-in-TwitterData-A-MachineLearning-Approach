@@ -40,7 +40,7 @@ The project serves as a stepping stone toward enhancing the understanding of men
 
 ## Result
 
-- Accurate Identification of Suicidal Intent: The model is expected to differentiate between tweets with suicidal intent and other tweets with reasonable accuracy, precision, recall, and F1-score.
+- Accurate Identification of Suicidal Intent: The model is expected to differentiate between tweets with suicidal intent and other tweets with reasonable accuracy, precision, recall, and accuracy.
 
 - Improved Mental Health Intervention: The results of this project can aid in timely identification of individuals expressing suicidal thoughts, enabling better mental health interventions and support systems.
 
